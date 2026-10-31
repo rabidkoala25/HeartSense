@@ -1,0 +1,23 @@
+Item,Qty,Unit Price (USD),Line Total (USD),Link
+Raspberry Pi Pico H,1,4.93,4.93,https://thepihut.com/products/raspberry-pi-pico
+Female headers 1x20 2.54mm (need 2),2,0.67,1.34,https://thepihut.com/products/adafruit-break-away-0-1-2x36-pin-strip-of-female-header-single-row-mpn-2886
+MMC5603 magnetometer breakout (Adafruit),1,7.71,7.71,https://thepihut.com/products/adafruit-triple-axis-magnetometer-mmc5603-stemma-qt-qwiic
+NeoPixel Diffused 5mm RGB (5-pack),1,6.38,6.38,https://thepihut.com/products/neopixel-diffused-5mm-through-hole-led-5-pack
+MCP73831-2-OT LiPo charger (SMD),1,0.74,0.74,https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT
+Piezo buzzer PS1240,1,1.73,1.73,https://thepihut.com/products/piezo-buzzer
+Schottky diode 1N5817 (DO-15),1,0.24,0.24,https://www.rapidonline.com/diotec-1n5817-schottky-diode-20v-do-15
+Resistor 470 ohm (THT),1,0.13,0.13,https://thepihut.com/products/600-pack-of-1-4-watt-1-resistors-30-values-20-of-each
+Resistor 2k ohm (THT),1,0.13,0.13,https://thepihut.com/products/600-pack-of-1-4-watt-1-resistors-30-values-20-of-each
+"Capacitor 10uF polarised (THT, qty 2)",2,0.27,0.54,https://www.rapidonline.com/electrolytic-capacitors
+Slide switch SPDT PCB mount (power),1,1.05,1.05,https://www.mouser.co.uk/ProductDetail/CK/OS102011MA1QN1
+Pimoroni 1.12in 128x128 OLED (I2C),1,18.62,18.62,https://thepihut.com/products/1-12-mono-oled-128x128-white-black-breakout
+Adafruit ANO rotary nav encoder (I2C),1,22.61,22.61,https://www.adafruit.com/product/5740
+JST-PH 2-pin battery connector,1,0.40,0.40,https://thepihut.com/products/jst-ph-battery-connector
+LiPo battery 3.7V ~1500-2000mAh,1,10.64,10.64,https://thepihut.com/products/lithium-ion-polymer-battery-3-7v-2000mah
+Male headers 2x20 2.54mm (for Pico),1,0.67,0.67,https://thepihut.com/products/break-away-0-1-36-pin-strip-right-angle-male-header-5-pack
+"Misc: wire, standoffs, solder",1,2.66,2.66,
+"PCB fabrication (PCBWay, small 2-layer)",1,6.65,6.65,https://www.pcbway.com/
+SMD assembly - 1 part (MCP73831),1,10.64,10.64,https://www.pcbway.com/
+Shipping (fab + parts to UK),1,15.96,15.96,
+
+TOTAL (USD),,,113.77,
